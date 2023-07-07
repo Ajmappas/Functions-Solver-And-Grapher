@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\programFiles\VisualStudio19\Projects\FunctionsSolverAndGrapher\FunctionsSolverAndGrapher\src\main.cpp(24,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\programFiles\VisualStudio19\Projects\FunctionsSolverAndGrapher\FunctionsSolverAndGrapher\src\main.cpp(24,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\programFiles\VisualStudio19\Projects\FunctionsSolverAndGrapher\FunctionsSolverAndGrapher\src\main.cpp(24,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\programFiles\VisualStudio19\Projects\FunctionsSolverAndGrapher\FunctionsSolverAndGrapher\src\main.cpp(24,24): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  FunctionsSolverAndGrapher.vcxproj -> E:\programFiles\VisualStudio19\Projects\FunctionsSolverAndGrapher\x64\Debug\FunctionsSolverAndGrapher.exe
